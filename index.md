@@ -4,6 +4,8 @@
 **Bold text is funny**
 ~~That's not true~~
 
+[check this link for my intended jobs](https://github.com/TZ10000/Github-page/blob/language/index.md#looking-for-these-jobs)
+
 > "Tianze loves dogs of course" Said Tianze.
 ![image](./CSE110Lab1pic.jpg)
 
@@ -26,6 +28,7 @@ This site helps me a lot in building this page: [link](https://docs.github.com/e
 4. where I can code the whole day
 5. Give me more code!
 
+## TODO this quarter
 - [x] Finish Lab1
 - [ ] Get a 100/100
 - [ ] Get A+ :tada:
